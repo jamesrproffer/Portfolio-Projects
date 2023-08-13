@@ -1,5 +1,3 @@
-# James Proffer Portfolio
-
 ## [MA Project: Human Development and Religious Consumer Behavior] (https://github.com/jamesrproffer/Portfolio-Projects)
 
 Downloaded and merged multiple longitudinal and cross-national datasets. 
