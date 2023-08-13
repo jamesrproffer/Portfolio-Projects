@@ -6,6 +6,6 @@
 - Optimized linear regression using SPSS to create a functional and accurate longitudinal and cross-national model of religious consumer behavior.
 - Utilizing SPSS built-in visualizations create maps and regression plots.
 
-![alt text](https://github.com/jamesrproffer/Portfolio-Projects/blob/main/images/HDI%20Map.png) ![alt text](https://github.com/jamesrproffer/Portfolio-Projects/blob/main/images/Religiosity%20Map.png)
+![](https://github.com/jamesrproffer/Portfolio-Projects/blob/main/images/HDI%20Map.png) ![](https://github.com/jamesrproffer/Portfolio-Projects/blob/main/images/Religiosity%20Map.png)
 
-![alt text](https://github.com/jamesrproffer/Portfolio-Projects/blob/main/images/HDI%20Religiosity%20Wave%207.png)
+![](https://github.com/jamesrproffer/Portfolio-Projects/blob/main/images/HDI%20Religiosity%20Wave%207.png)
