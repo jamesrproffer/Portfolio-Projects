@@ -6,6 +6,6 @@
 - Optimized linear regression using SPSS to create a functional and accurate longitudinal and cross-national model of religious consumer behavior.
 - Utilizing SPSS built-in visualizations create maps and regression plots.
 
-![](images/HDI Map.png) ![](/images/Religiosity Map.png)
+![](images/HDI_Map.png) 1[](images/Religiosity_Map.png)
 
-![](images/HDI Religiosity Wave 7.png)
+1[](images/HDI_Religiosity_Wave_7.png)
