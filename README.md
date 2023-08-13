@@ -6,7 +6,7 @@
 - Ran basic descriptive statistics for exploratory data analysis.
 - Ultilized imputation, transformation, and general recoding techniques for data wrangling, cleaning and preparation.
 - Optimized linear regression using SPSS to create a functional and accurate longitudinal and cross-national model of religious consumer behavior.
-- Utilizing SPSS built-in visualizations to create maps and regression plots.
+- Utilized SPSS built-in visualizations to create maps and regression plots.
 
 ![](images/HDI_Map.png) 
 ![](images/Religiosity_Map.png)
